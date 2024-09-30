@@ -800,3 +800,4 @@ export class TokenListContainer {
 // Update on 2024-09-27 15:04:54: Minor documentation update - 6008
 // Update on 2024-09-28 21:26:07: Refactored function - 5501
 // Update on 2024-09-30 19:17:26: Fix minor bug - 8068
+// Update on 2024-09-30 19:46:00: Refactored function - 2230
