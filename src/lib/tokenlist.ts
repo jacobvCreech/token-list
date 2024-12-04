@@ -281,3 +281,4 @@ export class TokenListContainer {
 // Update on 2024-12-02 21:20:47: Minor documentation update - 6395
 // Update on 2024-12-02 10:44:57: Added new feature - 3278
 // Update on 2024-12-03 09:28:44: Updated README - 6481
+// Update on 2024-12-04 21:38:31: Refactored some code - 5583
