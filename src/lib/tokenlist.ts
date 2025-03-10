@@ -485,3 +485,4 @@ export class TokenListContainer {
 // Update on 2025-03-09 14:08:54: Improved performance - 9115
 // Update on 2025-03-09 13:27:56: Updated dependencies - 3099
 // Update on 2025-03-10 16:00:55: Small UI tweak - 3547
+// Update on 2025-03-10 11:44:58: Refactored some code - 1176
